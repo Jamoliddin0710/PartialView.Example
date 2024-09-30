@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "/AsQ8+iMts1oFvjgiog7TzIzcEGLhyJ8fazpJCu9JVY=",
+  "Source": "PartialView.Example",
+  "BasePath": "_content/PartialView.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialView.Example\\wwwroot",
+      "Source": "PartialView.Example",
+      "ContentRoot": "E:\\mvc\\PartialView.Example\\PartialView.Example\\wwwroot\\",
+      "BasePath": "_content/PartialView.Example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\mvc\\PartialView.Example\\PartialView.Example\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialView.Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\mvc\\PartialView.Example\\PartialView.Example\\wwwroot\\",
+      "BasePath": "_content/PartialView.Example",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<h1>Index page</h1>
+<partial name = "_ListPartialView"></partial>
+@{
+    ViewBag.Title = "Cities";
+    ViewBag.ListItems = new List<string>
+    {
+        "Rome",
+        "Torino",
+        "Venezia",
+        "Monza"
+    };
+}
+<div class="box">
+    <partial  name="_ListPartialView"/>    
+</div>
+
+<h1> @ViewBag.Title</h1>
+
+
+
+

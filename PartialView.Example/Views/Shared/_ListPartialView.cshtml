@@ -1,0 +1,19 @@
+﻿<div class="list-container">
+     @{
+            ViewBag.Title = "Update Title";
+        }
+    <h3>@ViewBag.Title</h3>
+    <ul class="list">
+        @foreach (string item in ViewBag.ListItems)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>
+
+@*
+        <li> London </li>
+        <li> Catalonia</li>
+        <li> Paris </li>
+        <li> Manchester<li>
+        <li> Berlin </li>*@
