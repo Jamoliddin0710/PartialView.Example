@@ -11,9 +11,14 @@
     };
 }
 <div class="box">
-    <partial  name="_ListPartialView"/>    
+    <partial  name="_ListPartialView" />    
 </div>
 
+
+@*
+Partial view ichidagi change tashqaridagi razor page ga ta'sir qilmaydi 
+chunki ViewData dan copy olib yuboradi o'sha copy qilingan update bo'lib turaveradi
+shuning uchun ViewDatani view-data = ViewData kabi parametr bilan berish kerak*@
 <h1> @ViewBag.Title</h1>
 
 

@@ -1,1 +1,17 @@
 ﻿<h1>Abut page</h1>
+@{
+    var model = new Model()
+    {
+        Title = "Science",
+        Items = new List<string>()
+        {
+            "History",
+            "Math",
+            "Geography",
+            "Pysics"
+        }
+    };
+}
+@{
+    await Html.RenderPartialAsync("_ListPartialView1", model);   
+}

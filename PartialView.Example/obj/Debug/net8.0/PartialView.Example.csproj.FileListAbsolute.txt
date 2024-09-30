@@ -225,3 +225,4 @@ E:\mvc\PartialView.Example\PartialView.Example\obj\Debug\net8.0\PartialView.Exam
 E:\mvc\PartialView.Example\PartialView.Example\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 E:\mvc\PartialView.Example\PartialView.Example\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 E:\mvc\PartialView.Example\PartialView.Example\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\mvc\PartialView.Example\PartialView.Example\obj\Debug\net8.0\PartialView.Example.sourcelink.json
